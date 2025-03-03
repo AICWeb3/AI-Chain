@@ -1,8 +1,7 @@
 # AI-Chain 🤖
 **The first decentralized AI computing network, revolutionizing distributed AI, data, privacy, and smart contracts for a smarter Web3 ecosystem.**
 <div align="center" style="height:240px;">
-  <img src="./docs/img/banner.png" alt="AI-Chain Banner" width="100%" style="object-fit:cover;object-position:center;
-" />
+  <img src="./docs/img/banner.png" alt="AI-Chain Banner" width="100%" style="object-fit:cover;object-position:center;" />
 </div>
 
 
